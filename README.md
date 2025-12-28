@@ -1,4 +1,4 @@
-# 🇮🇳 PeakGuard AI: Intelligent Energy Command Center
+#  PeakGuard AI: Intelligent Energy Command Center
 
 **PeakGuard AI** is a state-of-the-art energy forecasting dashboard designed for commercial buildings in India. It uses Machine Learning (LightGBM) to predict electricity demand in real-time, detect contract breaches before they happen, and automate mitigation strategies (Battery Dispatch & HVAC Optimization) to prevent expensive demand penalties.
 
