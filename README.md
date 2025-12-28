@@ -24,3 +24,18 @@
 - **Backend:** Python, Pandas, NumPy
 - **ML Engine:** LightGBM Regressor
 - **Visualization:** Altair (Interactive Charts)
+
+## 📦 Installation
+
+1. Clone the repo:
+   bash
+   git clone https://github.com/Priyanshuturakhia/PeakGuardAI.git
+   cd PeakGuard-AI
+   
+2. Install dependencies:
+Bash
+pip install -r requirements.txt
+
+3. Run the dashboard:
+Bash
+streamlit run app.py
