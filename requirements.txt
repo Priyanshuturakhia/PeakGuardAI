@@ -3,4 +3,6 @@ lightgbm
 pandas
 numpy
 joblib
+
 altair
+hashlib
